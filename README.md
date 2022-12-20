@@ -6,4 +6,4 @@ Robox website is the robotics company website built with using only HTML and CSS
 - Live site:(https://cypharlink.github.io/Robox/)
 
 ## Preview
-![](./assets/preview/Robox.png)
+![](https://user-images.githubusercontent.com/104382853/208691578-76cbc2c6-5af3-4c1a-aab6-525890e54639.png)
